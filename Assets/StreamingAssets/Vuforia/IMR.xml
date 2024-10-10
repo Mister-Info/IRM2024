@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="puss_" size="0.300000 0.444444" />
+    <ImageTarget name="shrek" size="0.300000 0.444000" />
+  </Tracking>
+</QCARConfig>
